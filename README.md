@@ -2,7 +2,7 @@
 
 # Requirements
 
-> Tensorflow
-> Keras
+> Tensorflow \
+> Keras \
 > Tensoflow model optimization
 
