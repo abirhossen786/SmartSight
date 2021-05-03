@@ -2,7 +2,7 @@
 
 # Requirements
 
-> Tensorflow \
+> TensorFlow \
 > Keras \
-> Tensoflow model optimization
+> TensorFlow Model Optimization: https://www.tensorflow.org/model_optimization/guide/install
 
