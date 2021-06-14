@@ -11,8 +11,8 @@
   > TF_Lite to .h coversion on Ubuntu `xxd -i Filename.ttf > Filename.h`
 
 * Requirements
-  > `pip install tf-nightly`
-  > `pip install keras`
+  > `pip install tf-nightly` /
+  > `pip install keras` /
   > `pip install --user --upgrade tensorflow-model-optimization`
 
 * Arduino libraries 
