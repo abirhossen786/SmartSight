@@ -6,6 +6,9 @@
   3. [Himax WE-I Plus EVB Endpoint AI Development Board](https://www.sparkfun.com/products/17256)
   4. [HiLetgo ESP32](http://www.hiletgo.com/ProductDetail/2157143.html)
 
+## Edge Device
+  * [NVIDIA Jetson AGX Xavier Development Kit](https://www.seeedstudio.com/NVIDIA-Jetson-AGX-Xavier-Development-Kit-p-4418.html?gclid=CjwKCAjw_JuGBhBkEiwA1xmbRZFk_-s8W7FWp_Q8OKIi7QEnQR4cOn2ftUXtMS-khYo-XDTThSezBxoCGLMQAvD_BwE)
+
 ## Current implementation
   > Wio Terminal [Get Started](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/)\
   > TF_Lite to .h coversion on Ubuntu `xxd -i Filename.ttf > Filename.h`
