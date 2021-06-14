@@ -7,15 +7,15 @@
   4. [HiLetgo ESP32](http://www.hiletgo.com/ProductDetail/2157143.html)
 
 ## Current implementation
-  > Wio Terminal [Get Started](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/)
+  > Wio Terminal [Get Started](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/)\
   > TF_Lite to .h coversion on Ubuntu `xxd -i Filename.ttf > Filename.h`
 
 ## Requirements
-  > `pip install tf-nightly` 
-  > `pip install keras` 
+  > `pip install tf-nightly` \
+  > `pip install keras` \
   > `pip install --user --upgrade tensorflow-model-optimization`
 
 ## Arduino libraries 
-  > [EloquentTinyML](https://www.google.com) version 0.0.7
+  > [EloquentTinyML](https://www.google.com) version 0.0.7\
   > [Arduino_TensorFlowLite](https://www.tensorflow.org/lite/microcontrollers) version 1.15.0 ALPHA
 
