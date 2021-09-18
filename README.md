@@ -1,5 +1,7 @@
 # SmartSight
 
+Distributing deep neural networks (DNN) to Edge-to-MCU and applying quantization at layer granularity. We use different TensorFlow Lite supported MCU platforms, representative of to-day’s state-of-the-art MCUs. We use NVIDIA Jetson AGX Xavier as our edge platform. 
+
 ## List of MCU
   1. [Wio Terminal: ATSAMD51](https://www.seeedstudio.com/Wio-Terminal-p-4509.html)
   2. [Espressif ESP32-DevKitC](https://www.espressif.com/en/products/hardware/esp32-devkitc/overview)
